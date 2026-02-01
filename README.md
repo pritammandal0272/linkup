@@ -1,16 +1,61 @@
-# linkup
+# 💖 LinkUp – Chatting App
 
-A new Flutter project.
+**LinkUp** is a modern, stylish real-time chatting application built using **Flutter** and **Firebase**, designed to connect people instantly with a smooth and beautiful user experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 User Authentication (Email / Google)
+- 💬 Real-time Chat (Firebase Firestore)
+- 👤 Profile Setup (Gender, Birthday, Avatar)
+- 📨 Recent Chats & New Chat
+- 🎨 Clean Gradient UI
+- ⚡ Fast & Secure Messaging
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Firebase Storage**
+- **Material Design**
+
+---
+
+## 📱 App Screenshots
+
+### 🔹 Splash & Onboarding
+<p align="center">
+  <img src="screenshots/img1.jpg" width="220"/>
+  <img src="screenshots/img2.jpg" width="220"/>
+  <img src="screenshots/img3.jpg" width="220"/>
+</p>
+
+### 🔹 Authentication
+<p align="center">
+  <img src="screenshots/img4.jpg" width="220"/>
+  <img src="screenshots/img5.jpg" width="220"/>
+</p>
+
+### 🔹 Profile Setup
+<p align="center">
+  <img src="screenshots/img6.jpg" width="220"/>
+  <img src="screenshots/img7.jpg" width="220"/>
+</p>
+
+### 🔹 Chat Screens
+<p align="center">
+  <img src="screenshots/img8.jpg" width="220"/>
+  <img src="screenshots/img9.jpg" width="220"/>
+</p>
+
+---
+
+## 🔧 Installation
+
+1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/linkup-chat-app.git
